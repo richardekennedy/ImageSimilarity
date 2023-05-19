@@ -1,0 +1,8 @@
+DataLocationInfo:
+    imagesSourceDirectory: './TextureData'
+    
+ModelInfo:
+    modelName: 'resnet18'
+    embeddingPath: 'Embeddings_PreTrained_Resnet/data_embedding.npy'
+    embeddingImgNamesPath: 'Embeddings_PreTrained_Resnet/embedding_image_file_names.pkl'
+    loadEmbedding: False

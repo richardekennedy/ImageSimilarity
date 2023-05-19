@@ -1,0 +1,13 @@
+TestInfo:
+    testImagePath: "./SampleData/Test/bubbly_0050.jpg"
+    imageDataParentPath: "./TextureData"
+    numK: 30
+    writeOutCsv: True
+    
+ModelInfo:
+    modelName: 'resnet18'
+    embeddingPath: 'Embeddings/data_embedding.npy'
+    embeddingImgNamesPath: 'Embeddings/embedding_image_file_names.pkl'
+    loadEmbedding: True
+    
+    
